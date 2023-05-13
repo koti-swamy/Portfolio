@@ -1,0 +1,14 @@
+.icon-style{
+    color: #90EE90;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.contact-div{
+    height:90vh;
+    margin:0px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
